@@ -83,4 +83,7 @@ If the received value is LOW (indicating the pushbutton is pressed), the LED is 
 
 This Arduino project successfully demonstrates a basic communication setup between two Arduino boards using Serial communication. The first Arduino (Sender) reads the state of a pushbutton and sends its state to the second Arduino (Receiver) via Serial. The receiver Arduino then controls an LED based on the received pushbutton state. This project can serve as a starting point for more complex Arduino projects involving communication between multiple boards and various sensor inputs.
 
+
 ![image](https://github.com/amf17/IOT_Task2/assets/139582388/63544e2e-b8f1-40ad-b609-b7af0f64a051)
+
+### [Link ](https://www.tinkercad.com/things/eUL7cQxuCpx?sharecode=rCeB_R7oUYdWGr9ypgPf0bFvdetB1x8pHfYSZtac1mM)https://www.tinkercad.com/things/eUL7cQxuCpx?sharecode=rCeB_R7oUYdWGr9ypgPf0bFvdetB1x8pHfYSZtac1mM
