@@ -1,10 +1,14 @@
 void setup() {
+  // Start serial connection
   Serial.begin(9600);
+  // Configure pin 2 as an input and enable the internal pull-up resistor
   pinMode(2, INPUT_PULLUP);
 }
 
 void loop() {
+  // Read the pushbutton value into a variable
   int sensorVal = digitalRead(2);
+  // Send the pushbutton value to Arduino2 via Serial communication
   Serial.println(sensorVal);
-  delay(100); 
+  delay(100); // A small delay to avoid flooding the Serial communication
 }
