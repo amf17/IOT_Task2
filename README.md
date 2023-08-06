@@ -17,7 +17,7 @@ Serial Communication: Connected to Arduino Board 1 via a wired connection.
 
 ## Code Description:
 
-1- Arduino Board 1 (Sender) Code:
+### 1- Arduino Board 1 (Sender) Code:
 ```
 void setup() {
   // Start serial connection
@@ -44,7 +44,7 @@ The read value of the pushbutton is sent to Arduino Board 2 (Receiver) via Seria
 A small delay of 100 milliseconds is added to avoid excessive data transmission through Serial.
 
 
-2- Arduino Board 2 (Receiver) Code:
+### 2- Arduino Board 2 (Receiver) Code:
 
 ```
 int ledPin = 13; // LED connected to pin 13
