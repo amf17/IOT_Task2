@@ -86,4 +86,5 @@ This Arduino project successfully demonstrates a basic communication setup betwe
 
 ![image](https://github.com/amf17/IOT_Task2/assets/139582388/63544e2e-b8f1-40ad-b609-b7af0f64a051)
 
-### [Link ](https://www.tinkercad.com/things/eUL7cQxuCpx?sharecode=rCeB_R7oUYdWGr9ypgPf0bFvdetB1x8pHfYSZtac1mM)https://www.tinkercad.com/things/eUL7cQxuCpx?sharecode=rCeB_R7oUYdWGr9ypgPf0bFvdetB1x8pHfYSZtac1mM
+### Link
+https://www.tinkercad.com/things/eUL7cQxuCpx?sharecode=rCeB_R7oUYdWGr9ypgPf0bFvdetB1x8pHfYSZtac1mM
